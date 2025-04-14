@@ -11,9 +11,6 @@ I learned data analysis by watching Alex Freberg YouTube videos. As a proud grad
 -Data Preparation: Used DAX functions to extract categories and tools mentioned in the video titles.
 -Visualization: Designed interactive visuals to explore and present insights.
 
-# The Challenge:
-Alex's channel currently has 335 videos, but I was able to scrape data for only 326. I'm working on a solution to capture the videos that were left out.
-
 # Tools used:
 Power BI
 Python
